@@ -1,0 +1,4 @@
+Home 
+- arreglar los tamaños de pantalla para que blanco abajo
+- el sticky no anda
+- las animaciones y el boton para que el texto salga de atras de la montaña
