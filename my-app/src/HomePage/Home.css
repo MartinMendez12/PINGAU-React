@@ -14,7 +14,7 @@
         transform: translateY(80vh);
     }
     100%{
-        transform: translateY(70vh);
+        transform: translateY(60vh);
     }
 }
 
@@ -45,6 +45,7 @@
 
 .start-btn{
     animation: move-button 4s 1;
+    animation-fill-mode: forwards;
     text-decoration: none;
     display: inline-block;
     padding: 8px 30px;
