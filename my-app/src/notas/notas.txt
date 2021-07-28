@@ -2,3 +2,15 @@ Home
 - arreglar los tamaños de pantalla para que blanco abajo
 - el sticky no anda
 - las animaciones y el boton para que el texto salga de atras de la montaña
+- como implementar el test/pregunta del desconocido
+
+Barra de navegacion
+- hacerla mas linda
+
+Paginas que necesitamos hacer:
+- Info del proyecto, participantes
+- Ver info del corto: Sinopsis, fotos, fotos de backstage, otras cosas
+- Ver info de la instalacion: Descripcion, fotos, mini resumen de como esta hecho:
+                            - (boton que redirecciona a) link a pagina para ver el streaming
+                            - (boton que redirecciona a) link a reservas/formulario
+
