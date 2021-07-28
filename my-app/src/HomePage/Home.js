@@ -12,8 +12,7 @@ function Home(){
     return(
         <div>
             <div className="parallax-banner">
-                
-                <div className="text-title">El Fuego <br/> Que Hemos <br/> Construido</div>
+                <div className="text-title-animation" >El Fuego <br/> Que Hemos <br/> Construido</div>
                 <img src={capa1} alt="fondo de bosque en llamas" className="parallax-img" style={{top: (offset * 0.15 + 'px')}}/>
                 <button className="start-btn">Comenzar</button>
                 <img src={capa2} alt="arboles" className="parallax-img capa2" style={{top: (offset * -0.15 + 'px')}}/>
